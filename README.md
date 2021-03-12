@@ -1,12 +1,9 @@
 # RockPaperScissorsClassification
 
-Requirements :
+Requirements :  
 tensorflow  
-
 matplotlib  
-
 Numpy  
-
 Python  
 
 Download the data set here :  
